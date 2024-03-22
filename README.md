@@ -1,5 +1,7 @@
 # Flappy Bird Recreation with Pygame
 
+<img src="https://www.pygame.org/thumb/0de586a5c33cd10984ec8248aacf6a12.png"/>
+
 ## Description
 This project is a recreation of the classic game "Flappy Bird" using the Pygame library. It was developed as part of the game development mini-course offered by Hashtag Treinamentos. The game simulates the original Flappy Bird experience, where the player controls a bird and must navigate it through a series of pipes without colliding with them.
 
