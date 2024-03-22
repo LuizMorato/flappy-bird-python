@@ -7,7 +7,7 @@ This project is a recreation of the classic game "Flappy Bird" using the Pygame 
 
 ## Features
 - **Classic Gameplay**: Experience the same addictive gameplay as the original Flappy Bird.
-- **Simple Controls**: Control the bird with a single keypress or mouse click.
+- **Simple Controls**: Control the bird with a single keypress.
 - **Challenging Obstacles**: Navigate the bird through randomly generated pipes to achieve a high score.
 - **Scoring System**: Keep track of your score and challenge yourself to beat your previous record.
 
